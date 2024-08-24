@@ -1,1 +1,0 @@
-# start-docs-trezors.github.io
